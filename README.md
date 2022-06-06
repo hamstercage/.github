@@ -1,3 +1,3 @@
 # Hamstercage – Pets not Cattle
 
-This is the Github organisation for the Hamstercage project. See https://hamstercage.io/ for a full description and documentation.
+This repo hosts the [`profile/README.md`](profile/README.md) file that is displayed on the [organisation home page](https://github.com/hamstercage/).
